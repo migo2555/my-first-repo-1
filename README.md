@@ -1,4 +1,5 @@
 # my-first-repo
+
 Ovo je moj prvi GitHub repozitorijum za vjezbanje
 
 # My First Project 
@@ -22,3 +23,6 @@ This is a simple project to learn GitHub basics.
 - Create a new branch for your feature. 
  
 - Submit a Pull Request with your changes.
+
+This is my first repository. Wish me luck :)
+
